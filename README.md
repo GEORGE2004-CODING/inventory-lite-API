@@ -13,7 +13,7 @@ API REST para gestionar productos e inventario con historial de movimientos.
 
 ## 🛠 Tecnologías
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - Hibernate
